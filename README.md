@@ -1,6 +1,13 @@
 # 💫 About Me:
 🎓 CS Student @ University of West London | AI & Data Engineering Intern<br><br>🔭 Currently building a GraphRAG + Hybrid RAG pipeline over enterprise clinical data at I/O Atelier, and a full-stack contract intelligence system for the construction industry at HaloRFP (AI B2B SAAS).<br><br>🏦 My work spans regulated industries — from Tier 1 banking to healthcare and construction — building production RAG systems that handle real, messy, large-scale data.<br><br>🧠 Obsessed with LLMs, knowledge graphs, vector search, and making AI systems actually work in production — not just demos.<br><br>⚡ I've processed 1.3B+ tokens at scale, built AWS serverless pipelines, and wrapped RAG engines as MCP servers with FastAPI.<br><br>🌱 Always learning — Pipeline orchestration, Project Management tools and whatever's broken in my pipeline this week.<br><br>📍 London, UK | Originally from Gujarat, India<br><br>💡 Long-term goal: build a large software company from the ground up.
 
+# 🚀 Featured Work:
+> **⚠️ Note:** My main projects — the GraphRAG clinical retrieval engine (I/O Atelier) and the contract intelligence platform (HaloRFP) — live in private company repositories under NDA. I document my internship work, learnings, and architecture write-ups publicly here → **[internship_documentation](https://github.com/luv-codes/internship_documentation)**
+
+📌 **[internship_documentation](https://github.com/luv-codes/internship_documentation)** — Week-by-week documentation of my AI & Data Engineering internship work: GraphRAG pipeline design, retrieval evaluation, MCP servers, and lessons from production systems.
+
+📌 **[aws-nhs-etl-pipeline](https://github.com/luv-codes/aws-nhs-etl-pipeline)** — Serverless ETL pipeline on AWS processing 100,500 synthetic NHS records in under 2 seconds using S3, Lambda, IAM, Boto3, and CloudWatch.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luvagrawaluwl) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luvga07@gmail.com)
 
